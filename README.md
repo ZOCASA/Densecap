@@ -7,7 +7,7 @@ To run:
 ./helper_dc.sh path_to_video [options for densecap]
 
 TODO:
-1 > Currently no check for argument.\n
+1 > Currently no check for argument.</br>
 2 > Not removing directories.
 
 Also added an additional option to prebuilt DenseCap model.
